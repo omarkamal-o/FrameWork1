@@ -1,0 +1,53 @@
+.contact {
+    color: rgb(44, 62, 80);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    line-height: 48px;
+    font-size: 40px;
+  }
+  
+  .contact-line {
+    height: 4px;
+    width: 80px;
+    background-color: rgb(44, 62, 80);
+  }
+  
+  .top {
+    top: 40px !important;
+  }
+  
+  .top-0 {
+    top: 0 !important;
+  }
+  
+  .form-control:focus {
+    border-color: #DEE2E6 !important;
+    outline: 0;
+    box-shadow: 0 0 0 .25rem transparent;
+  }
+  
+  .btn {
+    background-color: #1abc9c;
+  }
+  
+  .btn:hover {
+    background-color: #1abc9c !important;
+    color: white !important;
+  }
+  
+  .contact label {
+    text-align: start;
+    color: #1abc9c;
+    margin-bottom: 7px;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    color: rgb(26, 188, 156);
+    transition: .6s top;
+  }
+  
+  .position-relative {
+    position: relative;
+  }
+  

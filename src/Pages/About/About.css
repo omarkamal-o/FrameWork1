@@ -1,0 +1,17 @@
+.bg-about{
+    background-color: #1ABC9C;
+    width: 100%;
+    /* height: 300px; */
+}
+.bg-about h1{
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    line-height: 48px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}

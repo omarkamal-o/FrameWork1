@@ -1,0 +1,17 @@
+.bg-appfooter{
+    background-color: #2C3E50;
+}
+.appFooter-icon ul li{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+}
+.appFooter-icon{
+    display: flex;
+    justify-content: center;
+}
